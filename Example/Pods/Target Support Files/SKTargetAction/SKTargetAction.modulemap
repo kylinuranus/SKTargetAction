@@ -1,0 +1,6 @@
+framework module SKTargetAction {
+  umbrella header "SKTargetAction-umbrella.h"
+
+  export *
+  module * { export * }
+}
