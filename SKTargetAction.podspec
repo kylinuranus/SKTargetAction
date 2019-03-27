@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SKTargetAction'
-  s.version          = '0.3.0'
+  s.version          = '0.5.0'
   s.summary          = '运行时路由'
 
 # This description is used to generate tags and improve search results.
