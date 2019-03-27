@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SKTargetAction'
-  s.version          = '0.5.0'
+  s.version          = '0.7.0'
   s.summary          = '运行时路由'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kylinuranus' => '1045322866@qq.com' }
-  s.source           = { :git => 'https://github.com/kylinuranus/SKTargetAction.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kylinuranus/SKTargetAction.git', :tag => '0.7.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
