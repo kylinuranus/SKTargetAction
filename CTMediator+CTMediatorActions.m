@@ -8,7 +8,7 @@
 
 #import "CTMediator+CTMediatorActions.h"
 
-NSString * const kCTMediatorTargetFZ = @"FZ";
+NSString * const kCTMediatorTargetFZ = @"SK";
 NSString * const kCTMediatorTargetCommon = @"Common";
 NSString * const kCTMediatorTargetCell = @"Cell";
 
